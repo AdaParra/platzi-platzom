@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/platzom.git"
+    "url": "git+https://github.com/AdaParra/platzi-platzom"
   },
   "keywords": [
     "platzom",
@@ -18,12 +18,12 @@
     "javascript",
     "js"
   ],
-  "author": "Ada Parra <paola.parra.sme@gmail.com> (https://twitter.com/Pao560)",
+  "author": "Ada Parra <adaparra@gmail.com> (https://twitter.com/Pao560)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/platzi/platzom/issues"
+    "url": "https://github.com/AdaParra/platzi-platzom/issues"
   },
-  "homepage": "https://github.com/platzi/platzom#readme",
+  "homepage": "https://github.com/AdaParra/platzi-platzom#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.5.2",
